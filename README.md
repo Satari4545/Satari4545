@@ -2,8 +2,7 @@
 
 # Yousif Al-Satari
 
-Ex-Shopify · Carleton SWE '27 · Ottawa
-
+Previous/ongoing projects
 - **agit** - memory for coding agents
 - **GymLens** - AI gym coach, 2nd Place Hack the Hill III
 - **devs-flatten** - flatten DEVS models, verified by trace
