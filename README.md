@@ -8,12 +8,13 @@ Ex-Shopify · Carleton SWE '27 · Ottawa
 
 - **agit** - memory for coding agents
 - **AI receptionist** - voice agents for plumbers and HVAC, 24/7
-- **devs-flatten** - flatten DEVS models, verified by trace. SYSC 4907 capstone.
+- **devs-flatten** - flatten DEVS models(Coupled model -> Atomic model), verified by trace. SYSC 4907 capstone.
+- **Mini-Shopify** - a Mini model of Shopify with buyers and sellers.
 
 ## Shipped
 
 - **Shopify** - Intern Jan-Aug 2026. 7 production projects, shipped 3. New user flow, $4M in GP.
-- **GymLens** - 2nd Place, Hack the Hill III. AI gym coach. FastAPI, React, MediaPipe, Gemini. Live at gymlens.fit.
+- **GymLens** - 2nd Place, Hack the Hill III. AI gym coach. FastAPI, React, MediaPipe, Gemini. Live at [gymlens.fit](https://www.gymlens.fit/).
 
 ## Stack
 
