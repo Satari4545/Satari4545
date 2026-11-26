@@ -2,7 +2,7 @@ I'm a software engineer interested in full-stack development,
 AI, and machine learning. I enjoy exploring different areas
 of engineering and building software that solves real problems.
 
-## Selected Projects
+## Projects I worked on / currently working on
 
 ### [AGIT](https://github.com/Satari4545/ai-git)
 Git-native context persistence for coding agents, preserving
