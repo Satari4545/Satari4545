@@ -1,23 +1,45 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DA44E&center=true&vCenter=true&width=700&lines=Ex-Shopify+%C2%B7+Carleton+SWE+%2727+%C2%B7+Ottawa)](https://git.io/typing-svg)
+I'm a software engineer interested in full-stack development,
+AI, and machine learning. I enjoy exploring different areas
+of engineering and building software that solves real problems.
 
-# Yousif Al-Satari
+## Selected Projects
 
-Ex-Shopify · Carleton SWE '27 · Ottawa
+### [AGIT](https://github.com/Satari4545/ai-git)
+Git-native context persistence for coding agents, preserving
+engineering decisions across sessions through Git notes,
+MCP, and agent integrations.
 
-## Building
+`Go` `Git` `MCP` `JSON-RPC`
 
-- **agit** - memory for coding agents
-- **AI receptionist** - voice agents for plumbers and HVAC, 24/7
-- **devs-flatten** - flatten DEVS models(Coupled model -> Atomic model), verified by trace. SYSC 4907 capstone.
-- **Mini-Shopify** - a Mini model of Shopify with buyers and sellers.
+### [GymLens](https://github.com/MagdiHajjaj/gymlens)
+Real-time exercise analysis and AI coaching using computer
+vision. Contributed to exercise analysis, feedback engines,
+and voice coaching.
 
-## Shipped
+**2nd Place — Hack the Hill III** · [Live Demo](https://gymlens.fit)
 
-- **Shopify** - Intern Jan-Aug 2026. 7 production projects, shipped 3. New user flow, $4M in GP.
-- **GymLens** - 2nd Place, Hack the Hill III. AI gym coach. FastAPI, React, MediaPipe, Gemini. Live at [gymlens.fit](https://www.gymlens.fit/).
+`TypeScript` `React` `Python` `FastAPI` `MediaPipe`
 
-## Stack
+### [flatten-devs](https://github.com/Satari4545/flatten-devs)
+Research prototype exploring coupled-to-atomic DEVS model
+transformation using simulation-based trace validation.
 
-Go · Python · TypeScript · React · Ruby · C · C++ · Java
+`Python` `C++` `Cadmium`
 
-[LinkedIn](https://www.linkedin.com/in/yousifalsatari) · [GymLens](https://www.gymlens.fit/)
+## Experience
+
+- **Shopify** — Production software engineering,
+  authentication, experimentation, and service migrations.
+- **NRC Capstone** — Discrete-event modelling and
+  helicopter supervisory systems.
+
+## Technologies
+
+**Languages:** Python, TypeScript, Go, Ruby, C++, C, Java, SQL
+
+**Frameworks:** React, Next.js, Rails, FastAPI, Node.js
+
+**Infrastructure & Tools:** PostgreSQL, MySQL, Kafka,
+GraphQL, GCP, Git, CI/CD
+
+[LinkedIn](https://www.linkedin.com/in/yousifalsatari)
